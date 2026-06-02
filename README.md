@@ -1,6 +1,8 @@
 <div align="center">
 
-# Hi, I'm Jakob “Ronn Popagorgio” 👋
+# Hi, I'm Jakob 👋
+
+### Also known online as Ronn Popagorgio
 
 ### Disabled Veteran • Builder • Writer • Crypto Researcher
 

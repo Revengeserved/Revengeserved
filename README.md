@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ronn 👋
+# Hi, I'm Jakob “Ronn Popagorgio” 👋
 
 ### Disabled Veteran • Builder • Writer • Crypto Researcher
 

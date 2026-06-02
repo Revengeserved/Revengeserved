@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Jakob 👋
+# Hi, I'm Ronn 👋
 
 ### Disabled Veteran • Builder • Writer • Crypto Researcher
 

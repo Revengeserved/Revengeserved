@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Inside the Sneakers Banner">
+</p>
+
 <div align="center">
 
 # Hi, I'm Jakob 👋

@@ -1,0 +1,4 @@
+# Runtime dependencies for the first safe implementation.
+# Keep this minimal until Phase 7 introduces a working read-only scanner.
+
+python-dateutil>=2.9.0

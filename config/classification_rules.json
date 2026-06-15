@@ -1,0 +1,25 @@
+{
+  "version": "0.1.0",
+  "default_protected_status": "unknown",
+  "unknown_handling": "treat_as_protected_until_manual_review",
+  "rules": [
+    {
+      "id": "user_content_common_documents",
+      "description": "Common user-created document formats in user-approved paths.",
+      "match_extensions": ["pdf", "doc", "docx", "txt", "rtf", "md", "csv", "xls", "xlsx", "ppt", "pptx"],
+      "category": "document",
+      "protected_status": "user_content",
+      "confidence_score": 70,
+      "review_required": false
+    },
+    {
+      "id": "user_content_common_media",
+      "description": "Common user-created media formats in user-approved paths.",
+      "match_extensions": ["jpg", "jpeg", "png", "heic", "gif", "mp4", "mov", "mp3", "m4a", "wav"],
+      "category": "media",
+      "protected_status": "user_content",
+      "confidence_score": 65,
+      "review_required": false
+    }
+  ]
+}

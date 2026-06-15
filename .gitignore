@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Local configs with real paths or account details
+config/scan_paths.json
+config/*local*.json
+
+# Local databases and scan outputs
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+reports/*
+!reports/.gitkeep
+quarantine_review/*
+!quarantine_review/.gitkeep
+
+# Logs
+*.log
+logs/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Never commit real exported user data
+local_export/
+exports/
+fixtures_private/

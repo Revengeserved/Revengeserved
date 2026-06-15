@@ -1,0 +1,13 @@
+{
+  "version": "0.1.0",
+  "mode": "inventory_only",
+  "roots": [
+    {
+      "source_type": "local_export",
+      "source_account": "example",
+      "path": "/path/to/exported/user/files",
+      "enabled": false,
+      "notes": "Example only. Do not point this at system folders."
+    }
+  ]
+}

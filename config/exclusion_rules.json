@@ -1,0 +1,30 @@
+{
+  "version": "0.1.0",
+  "policy": "favor_false_exclusions_over_accidental_processing",
+  "protected_path_fragments": [
+    "/System/",
+    "/Library/",
+    "/Applications/",
+    "/bin/",
+    "/sbin/",
+    "/usr/",
+    "/var/",
+    "AppData",
+    "Program Files",
+    "Windows",
+    ".git",
+    "node_modules",
+    "__pycache__"
+  ],
+  "protected_extensions": [
+    "dll",
+    "sys",
+    "dylib",
+    "so",
+    "exe",
+    "app",
+    "ipa",
+    "apk"
+  ],
+  "default_action_when_uncertain": "exclude_and_queue_for_manual_review"
+}

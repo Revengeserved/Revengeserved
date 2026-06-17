@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
   "primary_hash": "sha256",
-  "enabled": true,
+  "enabled": false,
   "defer_large_files": true,
   "large_file_threshold_bytes": 1073741824,
   "allowed_hash_types": [
@@ -9,5 +9,5 @@
     "provider_hash",
     "perceptual_hash"
   ],
-  "notes": "SHA-256 is the only primary identity hash. Perceptual hashes are never proof of exact duplicates."
+  "notes": "SHA-256 is the only primary identity hash. Perceptual hashes are never proof of exact duplicates. Hashing remains disabled until a later explicit approval gate."
 }

@@ -1,0 +1,2 @@
+This is a harmless test fixture for metadata-only scanning.
+It contains no private information and no secrets.
